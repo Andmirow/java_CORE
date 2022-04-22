@@ -2,6 +2,10 @@ package main.com.company;
 
 import java.util.Scanner;
 
+/*
+возвращает отображение числа в римском виде
+*/
+
 public class Rimskay {
     Rimskay(){
         Scanner in = new Scanner(System.in);
